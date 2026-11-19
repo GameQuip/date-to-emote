@@ -1,8 +1,8 @@
 <!-- EMOJI_CLOCK_START -->
-### 🗓️ Today is 19 November 2026
-# 🏫
-**Daily Emoji:** School  
-**Day:** 323 / 365  
+### 🗓️ Today is 20 November 2026
+# 🏬
+**Daily Emoji:** Department Store  
+**Day:** 324 / 365  
 <!-- EMOJI_CLOCK_END -->
 
 ---
